@@ -1,0 +1,32 @@
+{
+  "lines": {
+    "life_line": {
+      "present": true,
+      "clarity": "broken",
+      "length": "long",
+      "breaks": 29,
+      "branches": 31790
+    },
+    "head_line": {
+      "present": true,
+      "clarity": "broken",
+      "length": "long",
+      "breaks": 27,
+      "branches": 59358
+    },
+    "heart_line": {
+      "present": false,
+      "clarity": "",
+      "length": "",
+      "breaks": 0,
+      "branches": 0
+    },
+    "fate_line": {
+      "present": false,
+      "clarity": "",
+      "length": "",
+      "breaks": 0,
+      "branches": 0
+    }
+  }
+}
